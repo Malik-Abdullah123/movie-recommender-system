@@ -1,7 +1,4 @@
-streamlit
+streamlit==1.30.0
 pandas
-numpy
 scikit-learn
-requests
-pickle-mixin
-ast
+markdown-it-py>=2.0.0
